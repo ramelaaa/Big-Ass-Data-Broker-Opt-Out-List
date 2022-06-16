@@ -1,14 +1,5 @@
 # Big Ass Data Broker Opt-Out List
 
-| Symbols | Meanings                                             |
-| ------- | ---------------------------------------------------- |
-| ☠       | high priority                                        |
-| 🎫      | requires driver’s license (cross out your ID #!)     |
-| 📫      | must use snail mail                                  |
-| 💰      | site charges money for access or removal (whaaaat?)  |
-
-
-
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
@@ -25,59 +16,60 @@ Google further allows you to remove non-consensual or intimate personal images, 
 [https://support.google.com/websearch/troubleshooter/3111061](https://support.google.com/websearch/troubleshooter/3111061)
 
 ## Table on Contents
+** indicates high priority
 1. [Acxoim](#acxiom)
-2. [Advanced Background Checks](#advanced-background-checks)
+2. [Advanced Background Checks](#advanced-background-checks)**
 3. [Archives](#archives)
-4. [Background Alert]()
-5. [Been Verified](#-beenverified)
-6. [Check People]()
-7. [Classmates.com]()
-8. [ClustrMaps]()
-9. [CocoFinder]()
-10. [CyberBackgroundChecks]()
-11. [FamilyTreeNow]()
-12. [FastPeopleSearch]()
-13. [FreePeopleDictionary]()
-14. [Homemetry]()
-15. [IDTrue]()
-16. [InfoTracer]()
-17. [InstantCheckmate]()
-18. [Intelius]()
-19. [MyLife]()
-20. [Nuwber]()
-21. [PeekYou]()
-22. [PeopleByName]()
-23. [PeopleFinders]()
-24. [PeopleSearchNow]()
-25. [PeopleSearchSite]()
-26. [Persopo]()
-27. [Pipl]()
-28. [Private Eye]()
-29. [Private Records]()
-30. [PublicRecordsNow]()
-31. [Radaris]()
-32. [Rehold]()
-33. [SearchBug]()
-34. [SearchPeopleFree]()
-35. [SearchQuarry]()
-36. [SmartBackgroundChecks]()
-37. [Social Catfish]()
-38. [Spoke]()
-39. [Spokeo]()
-40. [Spyfly]()
-41. [TruePeopleSearch]()
-42. [That's Them]()
-43. [Truth Finder]()
-44. [Unmask]()
-45. [USA People Search]()
-46. [United States Phone Book]()
-47. [US Search]()
-48. [USPhoneBook]()
-49. [Verecor]()
-50. [VoterRecords]()
-51. [White Pages]()
-52. [Xlek]()
-53. [ZoomInfo]
+4. [Background Alert](#backgroundalert)
+5. [Been Verified](#beenverified)**
+6. [Check People](#check-people)
+7. [Classmates.com](#classmatescom)
+8. [ClustrMaps](#clustrmaps)
+9. [CocoFinder](#cocofinder)
+10. [CyberBackgroundChecks](#cyberbackgroundchecks)
+11. [FamilyTreeNow](#familytreenow)**
+12. [FastPeopleSearch](#fastpeoplesearch)**
+13. [FreePeopleDictionary](#freepeopledirectory)
+14. [Homemetry](#homemetry)
+15. [IDTrue](#idtrue)
+16. [InfoTracer](#infotracer)
+17. [InstantCheckmate](#instantcheckmate)**
+18. [Intelius](#intelius)**
+19. [MyLife](#mylife)**
+20. [Nuwber](#nuwber)
+21. [PeekYou](#peekyou)**
+22. [PeopleByName](#peoplebyname)
+23. [PeopleFinders](#peoplefinders)**
+24. [PeopleSearchNow](#peoplesearchnow)
+25. [PeopleSearchSite](#people-search-sites)
+26. [Persopo](#persopo)
+27. [Pipl](#pipl)**
+28. [Private Eye](#private-eye)
+29. [Private Records](#privaterecords)
+30. [PublicRecordsNow](#publicrecordsnow)
+31. [Radaris](#radaris)**
+32. [Rehold](#rehold)
+33. [SearchBug](#searchbug)
+34. [SearchPeopleFree](#searchpeoplefree)
+35. [SearchQuarry](#searchquarry)
+36. [SmartBackgroundChecks](#smartbackground-checks)
+37. [Social Catfish](#social-catfish)
+38. [Spoke](#spoke)
+39. [Spokeo](#spokeo)**
+40. [Spyfly](#spyfly)
+41. [TruePeopleSearch](#truepeoplesearch)
+42. [That's Them](#thats-them)
+43. [Truth Finder](#truthfinder)**
+44. [Unmask](#unmask)
+45. [USA People Search](#usa-people-search)
+46. [United States Phone Book](#united-states-phone-book)
+47. [US Search](#us-search)
+48. [USPhoneBook](#usphonebook)**
+49. [Verecor](#verecor)
+50. [VoterRecords](#voter-records)
+51. [White Pages](#white-pages)**
+52. [Xlek](#xlek)
+53. [ZoomInfo](#zoominfo)
 
 ## People Search Sites
 
@@ -92,7 +84,7 @@ It is hard to find your own info for free, but you can opt out here:
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
-#### ☠ Advanced Background Checks
+### Advanced Background Checks
 
 Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
@@ -104,11 +96,11 @@ To find your information, you must sign up for a free trial here:
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
 
-### 🎫 BackgroundAlert
+### BackgroundAlert
 
-Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
+Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/). Requires a driver's license (Cross out your ID!)
 
-### ☠ BeenVerified
+### BeenVerified
 Find your information and opt out here:
 
 [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
@@ -134,12 +126,12 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
-### ☠ FamilyTreeNow
+### FamilyTreeNow
 Search for yourself and remove your information here:
 
 [https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
 
-### ☠ FastPeopleSearch
+### FastPeopleSearch
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### FreePeopleDirectory
@@ -156,28 +148,28 @@ Find your information here: [https://www.infotracer.com/](https://www.infotracer
 
 You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
-### ☠ InstantCheckmate
+### InstantCheckmate
 Find and remove your information here:
 
 [https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
 
-### ☠ Intelius
+### Intelius
 Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
 
-### ☠ 📞 MyLife
+### MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
 Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](mailto:info@mylife.com) or [removalrequests@mylife.com](mailto:removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### Nuwber
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
 
-### ☠ PeekYou
+### PeekYou
 Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/) , opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
 
 ### PeopleByName
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
 
-### ☠ PeopleFinders
+### PeopleFinders
 Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
 
 ### PeopleSearchNow
@@ -190,7 +182,7 @@ PLook for your information here: [https://www.peoplesearchsite.com](https://www.
 Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
 Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)).
 
-### ☠ Pipl
+### Pipl
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
 
 ### Private Eye
@@ -202,13 +194,13 @@ Search for your name and state and opt out here:  [https://www.privaterecords.ne
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/]. Click “opt out” on this form: [https://www.publicrecordsnow.com/static/view/contact/],  fill out the form, complete the captcha and send it in.
 
-### ☠ Radaris
+### Radaris
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
 
-### 💰 SearchBug
+### SearchBug
 Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact SearchBug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 652-4050 or via fax at (760) 454-7341 to to ask them to block the display of your personal information. 
 
 ### SearchPeopleFree
@@ -226,7 +218,7 @@ Find your information here: [https://socialcatfish.com/](https://socialcatfish.c
 ### Spoke
 Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
 
-### ☠ Spokeo
+### Spokeo
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout).
 
 ### SpyFly
@@ -238,7 +230,7 @@ Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoples
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Dataseal.io link, which is a paid product.
 
-### ☠ TruthFinder
+### TruthFinder
 Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
 
 ### Unmask 
@@ -256,7 +248,7 @@ If your address is listed and you want it removed, enter the telephone number an
 ### US Search 
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
 
-### ☠ USPhoneBook
+### USPhoneBook
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
@@ -265,7 +257,7 @@ Find your information at [https://verecor.com](https://verecor.com). To opt out,
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
 
-### ☠ 📞 White Pages
+### White Pages
 Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
 
 You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
@@ -273,7 +265,7 @@ You will need to provide a phone number and enter an opt-out code when you recei
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
 
-### � ZoomInfo
+### ZoomInfo
 Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
 ## Special Circumstances
